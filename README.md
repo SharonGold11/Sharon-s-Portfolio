@@ -15,4 +15,4 @@ README.md
 
 📫 How to reach me : Linkedin: @Sharon Adediji, Twitter: @Sharon_Gold1
 
-https://github.com/SharonGold11/Sharon-s_Portfolio.git
+Link to my Portfolio: https://github.com/SharonGold11/Sharon-s_Portfolio.git
