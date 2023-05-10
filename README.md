@@ -13,6 +13,6 @@ README.md
 
 💞️ I am available for Data Analyst and Business Intelligence roles. Kindly reach out to me via Linkedin and Twitter.
 
-📫 How to reach me : Linkedin: @Sharon Adediji, Twitter: @Sharon_Gold1
+📫 How to reach me : Linkedin: @Sharon Adediji (https://www.linkedin.com/in/sharon-adediji-2b78a6194), Twitter: @Sharon_Gold1
 
 🔗 Link to my Portfolio: https://github.com/SharonGold11/Sharon-s_Portfolio.git
